@@ -1,18 +1,23 @@
-<div align='center'>Whatsapp Api - Baileys</div>
+<div align="center">
 
-<div align='center'>
+# 🚀 Whatsapp Api - Baileys [ Mod ]
 
+[![Node.js Version](https://img.shields.io/badge/Node.js-20.0%2B-brightgreen.svg)](https://nodejs.org/en/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+</div>
 
-## Información
+## 📋 Descripción
 
-Este paquete `requiere` Node.js versión **20 o superior** para funcionar.
+Una implementación moderna y eficiente de WhatsApp API utilizando Baileys.
 
-Este proyecto está explícitamente dirigido a entornos modernos y no soporta versiones antiguas de Node. El soporte siempre seguirá la última versión LTS de Node.js para mantener el rendimiento y compatibilidad con el ecosistema más reciente.
+## ⚡ Características Principales
 
-• Solución LID
+- Soporte para Node.js moderno (v20+)
+- Alto rendimiento y estabilidad
+- Integración sencilla
+- Mantenimiento activo
 
-> **Edited Baileys By Ado**
+## 🔧 Requisitos Previos
 
-[☏](https://wa.me/50493732693)
-
+- Node.js versión **20 o superior**
