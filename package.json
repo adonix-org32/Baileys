@@ -14,12 +14,12 @@
     "automation", 
     "multi-device"
   ],
-  "homepage": "https://developers.facebook.com/docs/whatsapp/",
+  "homepage": "https://github.com/meado-learner",
   "repository": {
-    "url": "https://web.whatsapp.com/"
+    "url": "https://github.com/meado-learner/Adonix-Baileys"
   },
   "license": "MIT",
-  "author": "Meta Platforms, Inc.",
+  "author": "Ado",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
