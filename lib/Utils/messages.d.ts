@@ -39,6 +39,7 @@ export declare const extractMessageContent: (content: WAMessageContent | undefin
  * Returns the device predicted by message ID
  */
 export declare const getDevice: (id: string) => "web" | "unknown" | "android" | "ios" | "desktop";
+export declare const getInteractiveMessageContent: (content: WAMessageContent) => any;
 /** Upserts a receipt in the message */
 export declare const updateMessageWithReceipt: (msg: Pick<WAMessage, "userReceipt">, receipt: MessageUserReceipt) => void;
 /** Update the message with a new reaction */
