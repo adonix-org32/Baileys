@@ -28,7 +28,7 @@
     "engine-requirements.js"
   ],
   "scripts": {
-    "lint": "eslint src --ext .js,.ts",
+    "lint": "eslint lib",
     "lint:fix": "yarn lint --fix"
   },
   "dependencies": {
